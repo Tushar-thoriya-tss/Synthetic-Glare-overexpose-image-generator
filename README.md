@@ -3,4 +3,4 @@ This is synthetic Galre/overexposed image genetor on streamlit UI based applicat
 
 
 # Application UI
-![application UI](assets/app_screenshort.png)
+![application UI](assets/app_screenshot.png)
