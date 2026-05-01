@@ -2,5 +2,5 @@ this is synthetic Galre/overexposed image genetor on streamlit UI based applicat
 
 
 
-## Applicaton UI
+# Applicaton UI
 ![application UI](assets/app_screenshort.png)
